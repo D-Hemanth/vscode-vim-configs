@@ -35,7 +35,7 @@ In the example above, whenever we type the sequence **`jk`** in *Insert Mode*
 
 # My Custom Vim configs:
 
-```json
+```js
   //
   // VSCODE Vim settings
   //
